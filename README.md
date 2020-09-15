@@ -1,2 +1,2 @@
 # Arbitrary-Precision
-Build a library in C for arithmetic for large complex numbers
+Built a library in C for arithmetic for large complex numbers
